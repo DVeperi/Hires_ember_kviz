@@ -1,0 +1,4 @@
+openai
+langsmith
+langchain
+langchain-openai
